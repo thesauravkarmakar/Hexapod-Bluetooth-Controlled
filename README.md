@@ -6,3 +6,5 @@ Main componets are:\
 Arduino Uno\
 High Torque Servo Motors\
 HC05 Bluetooth Module
+
+![alt text](https://photos.app.goo.gl/adfdnxT2xuWhiSiS6)
