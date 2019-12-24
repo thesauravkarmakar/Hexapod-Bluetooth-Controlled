@@ -3,6 +3,6 @@ A hexapod robot is a mechanical robot that walks on six legs.It imitates insect 
 This hexapod is controlled via an Android App using bluetooth connection.
 
 Main componets are:
-Arduino Uno
-High Torque Servo Motors
+Arduino Uno&nbsp;
+High Torque Servo Motors&nbsp;
 HC05 Bluetooth Module
