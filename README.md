@@ -7,4 +7,6 @@ Arduino Uno\
 High Torque Servo Motors\
 HC05 Bluetooth Module
 
+Video Link: https://youtu.be/0YcbB5bz7g4
+
 ![alt text](https://github.com/thesauravkarmakar/Hexapod-Bluetooth-Controlled-/blob/master/IMG_20191224_145534.jpg)
