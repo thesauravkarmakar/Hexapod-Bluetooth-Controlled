@@ -4,9 +4,9 @@ This hexapod is controlled via an Android App using bluetooth connection.
 
 Main components are:\
 Arduino Uno\
-High Torque Servo Motors\
+MG995 Servo Motors\
 HC05 Bluetooth Module
 
-Video Link: https://youtu.be/0YcbB5bz7g4
+Video Link: 
 
 ![alt text](https://github.com/thesauravkarmakar/Hexapod-Bluetooth-Controlled-/blob/master/IMG_20191224_145534.jpg)
